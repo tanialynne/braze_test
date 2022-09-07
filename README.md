@@ -1,6 +1,9 @@
 Take-Home Assignment
+
 Technical Learning Experience Specialist
+
 Overview
+
 Thank you for taking the time to complete this exercise. We've designed this assignment to learn about your technical skill set, user-centered design process, and ability to creatively manage ambiguity. In this assignment, you will take a course design document for a short lesson and turn it into an html package that we can upload to our Learning Management System.
 These instructions, along with all of the other resources you’ll need, are located in this Google Drive folder.
 Instructions
