@@ -92,10 +92,21 @@ img {
 	display: none;
 }
 button {
-	-webkit-appearance: button;
+  -webkit-appearance: none; /*For Chrome*/
+  -moz-appearance: none;/*For Mozilla*/
+  appearance: none;
+  border:none;
+  border-radius:4px;
+  background-color: #3accdd;
+  color:#fff;
 	cursor: pointer;
 	padding: .5rem 1rem;
 	margin: 1rem .5rem 1rem 0;
+  min-height:30px;
+}
+button[disabled] {
+  background-color: #ebf3f5;
+  color:#fff;
 }
 #results {
 	margin-top: 1rem;
